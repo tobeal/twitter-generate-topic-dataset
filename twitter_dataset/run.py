@@ -19,7 +19,7 @@ def create_tweets_dataset(keywords: str):
 
     """
     c = twint.Config()
-    c.Limit = 200
+    c.Limit = 200000
     c.Pandas = True
     c.Lang = "es"
     c.Hide_output = True
