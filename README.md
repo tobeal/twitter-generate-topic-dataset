@@ -1,4 +1,4 @@
-# twitter-generate-topic-dataset
+# Twitter generate topic dataset
 
 Tool for creating tweet based dataset using the argument.
 
@@ -6,6 +6,7 @@ Tool for creating tweet based dataset using the argument.
 
 # Usage
 
+For upgrading the tool and generate a tweet dataset:
 ```bash
 bash launch.sh keyword1,keyword2,...,keywordN
 ```
