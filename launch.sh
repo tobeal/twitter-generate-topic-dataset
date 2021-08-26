@@ -1,4 +1,5 @@
 #!/bin/bash
+
 # Copyright 2021 Deep Trends
 # See LICENSE for details.
 
