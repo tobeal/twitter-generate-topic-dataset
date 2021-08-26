@@ -1,5 +1,11 @@
-twitter-generate-topic-dataset
+# twitter-generate-topic-dataset
 
-Create tweets dataset using the argument passed by console to search into the tweets query.
+Tool for creating tweet based dataset using the argument.
 
-#Format query: bash launch.bash <list of words separates by ','>
+<img src="https://logos-marcas.com/wp-content/uploads/2020/04/Twitter-Logo.png" height=200 width=350>
+
+# Usage
+
+```bash
+bash launch.sh keyword1,keyword2,...,keywordN
+```
